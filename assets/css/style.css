@@ -601,7 +601,7 @@ section {
   border: 1px solid #234044;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #234044;
+  background-color: #dd9714;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
@@ -928,7 +928,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background: #f9f9f9;
+  background: rgba(40, 16, 95, 0.3);
 }
 .breadcrumbs h2 {
   font-size: 26px;
